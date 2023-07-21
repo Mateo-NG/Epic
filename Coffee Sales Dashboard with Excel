@@ -1,0 +1,15 @@
+Coffee Sales Dashboard with Excel
+📊 Just completed an exciting Excel dashboard project on Coffee Sales! A public data from Kaggle and GitHub, I analyzed coffee sales data to uncover key insights and trends.
+
+Key Insights:
+Total Sales by Coffee Type: Visualized using a line chart, this insight reveals the sales performance of various coffee types over time. 
+Identify which types of coffee are most popular and observe any seasonal trends.
+Top 5 Customers: Presented with a column chart, this insight showcases the top 5 customers based on their coffee purchases. Understanding the most valuable customers can help tailor marketing and customer retention strategies.
+Sales by Country: Displayed through a column chart, this insight illustrates the sales distribution across different countries. Discover where the coffee is most in-demand and consider potential expansion opportunities.
+Top 5 Cities: Represented with a bar graph, this insight highlights the top 5 cities driving coffee sales. Focusing on these locations for targeted marketing and growth efforts.
+Total Sales for 3 Available Years: Get an overview of the overall sales performance across the three years covered in the dataset. This insight provides a holistic view of sales growth or decline over time.
+
+Tools Used
+Excel was the chosen tool for this project, as I aimed to enhance my skills in data analysis and visualization. Excel offers a user-friendly interface, making it easy to manipulate and clean large datasets efficiently. During the data cleaning phase, I effectively used functions like Xlookup, Vlookup, Match, Index, and If, which allowed me to organize and prepare the data for further analysis.
+Dataset Details:
+The coffee sales dataset contains over 1000 rows and 17 columns, providing a comprehensive view of sales data. Analyzing this extensive dataset allowed me to derive valuable insights and make data-driven decisions to improve coffee sales and customer satisfaction.
